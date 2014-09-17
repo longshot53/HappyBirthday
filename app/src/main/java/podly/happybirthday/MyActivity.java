@@ -78,6 +78,6 @@ public class MyActivity extends Activity {
         // TODO Auto-generated method stub
         super.onPause();
         ourSong.release();
-        finish();
+        //finish();
     }
 }
